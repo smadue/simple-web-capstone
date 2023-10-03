@@ -9,7 +9,8 @@ This is just a practice project to hone my HTML/CSS skill. This project is carri
 ### Contact Page
 ![image](https://drive.google.com/uc?id=1Bu0MeUulKUx9TqfgXabgKVcnGCJy9PcI)
 
-### Project Page
+### About Page
 ![image](https://drive.google.com/uc?id=1vB-k_pN8hHjT6l0oQDi5VsFSIVMYUizZ)
 
-### About Page
+### Project Page
+![image](https://drive.google.com/uc?id=1HDoSIAwELBJ5NlKSaxbHVC4OtahxJ38j)
