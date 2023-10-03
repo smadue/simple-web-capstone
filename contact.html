@@ -20,27 +20,27 @@
         <form action="/submit-form" method="post">
             <fieldset>
                 <legend>Contact Form</legend>
-                <div>
+                <div class="formitem">
                     <label for="firstname">Firstname:</label>
                     <input type="text" id="firstname" name="firstname">
                 </div>
-                <div>
+                <div class="formitem">
                     <label for="lastname">Lastname:</label>
                     <input type="text" id="lastname" name="lastname">
                 </div>
-                <div>
-                    <label for="email">Email:</label>
+                <div class="formitem">
+                    <label for="email">Email:&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</label>
                     <input type="email" id="email" name="email">
                 </div>
-                <div>
+                <div class="formitem">
                     <span><input type="radio" id="project">Project</span>
                     <span><input type="radio" id="enquiry">Enquiry</span>
                 </div>
-                <div>
-                    <label for="comments">Comments:</label>
+                <div class="formitem commentsitem">
+                    <label for="comments" class="comlabel">Comments:&nbsp;&nbsp;</label>
                     <textarea name="comments" id="comments" cols="30" rows="10"></textarea>
                 </div>
-                <div>
+                <div class="formitem">
                     <button type="submit">Submit</button>
                 </div>
             </fieldset>

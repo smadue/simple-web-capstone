@@ -102,7 +102,7 @@ body{
 }
 .projectFeature a img:hover{
     background: #076575;
-    opacity: 70%;
+    opacity: 100%;
     transition: 2s all ease;
 }
 .projectFeature a p{
@@ -112,4 +112,27 @@ body{
     color: #fff;
     font-size: 20px;
 
+}
+
+/** Contact **/
+form{
+    margin: 40px;
+}
+fieldset{
+    padding: 30px;
+    width: 700px;
+}
+.formitem{
+    margin-top: 20px;
+}
+.formitem #firstname, .formitem #lastname, .formitem #email{
+    width: 300px;
+    margin-left: 10px;
+}
+.commentsitem{
+    display: flex;
+    align-items: center;
+}
+.formitem button{
+    padding: 5px 20px;
 }
