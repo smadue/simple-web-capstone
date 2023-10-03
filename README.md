@@ -4,7 +4,7 @@ This is just a practice project to hone my HTML/CSS skill. This project is carri
 ## Pages
 
 ### Home Page
-![image](https://drive.google.com/uc?id=1Uf7R4HBn5oA-q4XQAJcRClxR7hgZmg3g/view?usp=sharing)
+![image](https://drive.google.com/uc?id=1Uf7R4HBn5oA-q4XQAJcRClxR7hgZmg3g)
 
 ### Contact Page
 <img src="https://drive.google.com/file/d/1Bu0MeUulKUx9TqfgXabgKVcnGCJy9PcI/view?usp=sharing">
