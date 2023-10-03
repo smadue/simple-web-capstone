@@ -7,9 +7,9 @@ This is just a practice project to hone my HTML/CSS skill. This project is carri
 ![image](https://drive.google.com/uc?id=1Uf7R4HBn5oA-q4XQAJcRClxR7hgZmg3g)
 
 ### Contact Page
-<img src="https://drive.google.com/file/d/1Bu0MeUulKUx9TqfgXabgKVcnGCJy9PcI/view?usp=sharing">
+![image](https://drive.google.com/uc?id=1Bu0MeUulKUx9TqfgXabgKVcnGCJy9PcI)
 
 ### Project Page
-<img src="https://drive.google.com/file/d/1vB-k_pN8hHjT6l0oQDi5VsFSIVMYUizZ/view?usp=sharing">
+![image](https://drive.google.com/uc?id=1vB-k_pN8hHjT6l0oQDi5VsFSIVMYUizZ)
 
 ### About Page
