@@ -2,7 +2,7 @@
 This is just a practice project to hone my HTML/CSS skill. This project is carried out during my learning journey as a programmer. <br>
 
 ## Project Link
-View the project output using this link
+View the project output using this link:
 https://waleakajesimple.netlify.app/
 
 ## Pages
