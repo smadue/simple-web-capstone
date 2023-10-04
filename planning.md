@@ -1,4 +1,4 @@
-The following are the planning for this project:<br>
+The following are the planning to bring this project to live:<br>
 
 H1 Headers
 Font Family: Roboto
